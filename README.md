@@ -10,6 +10,8 @@ Stuff to do:
 ---https://gist.github.com/karlwestin/4051467
 ---ARDRONE browser control
 http://rohitghatol.com/?p=493
+---https://github.com/TooTallNate/ar-drone-socket.io-proxy
+
 - set up heroku app to test socket.io
 
 - make a live serial stream to a webpage with socket.io
